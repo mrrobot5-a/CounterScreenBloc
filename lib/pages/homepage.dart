@@ -12,7 +12,7 @@ class CounterApp extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          "30",
+          "40",
           style: TextStyle(
             fontSize: 80.0,
           ),
