@@ -11,7 +11,7 @@ A simple Flutter application that demonstrates state management using **flutter_
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6ffb7552-945e-46dc-9a2f-422881b42c18" width="200">
       <br>
-      <b>Splash Screen</b>
+      <b>Counter Using Bloc</b>
     </td>
 
   </tr>
