@@ -7,6 +7,7 @@ class CounterCubit extends Cubit {
   //method for add
   add() {
     counter++;
+    counter++;
     emit(UpdateCounterState());
   }
 
